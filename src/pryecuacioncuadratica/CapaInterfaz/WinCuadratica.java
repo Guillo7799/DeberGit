@@ -109,6 +109,7 @@ public class WinCuadratica extends javax.swing.JFrame {
             }
         });
 
+        btnMas.setBackground(new java.awt.Color(255, 255, 102));
         btnMas.setFont(new java.awt.Font("Times New Roman", 1, 12)); // NOI18N
         btnMas.setText("+");
         btnMas.addActionListener(new java.awt.event.ActionListener() {
@@ -117,6 +118,7 @@ public class WinCuadratica extends javax.swing.JFrame {
             }
         });
 
+        btnMenos.setBackground(new java.awt.Color(255, 255, 102));
         btnMenos.setFont(new java.awt.Font("Times New Roman", 1, 12)); // NOI18N
         btnMenos.setText("-");
         btnMenos.addActionListener(new java.awt.event.ActionListener() {
