@@ -15,7 +15,8 @@ import pryecuacioncuadratica.CapaNegocio.Clsecuacion2;
 public class WinCuadratica extends javax.swing.JFrame {
 
    float a,b,c,k;
-   ClsEcuacion2 p,q;
+   //correccion en este punto
+   Clsecuacion2 p,q;
    int codigo,paso=0;
    public float rangoinicial,rangofinal,incremento;
    int contador=0;
@@ -311,4 +312,5 @@ public class WinCuadratica extends javax.swing.JFrame {
     private javax.swing.JTextArea jTextTabla;
     private javax.swing.JTextField txtPantalla;
     // End of variables declaration//GEN-END:variables
-}
+
+ 
