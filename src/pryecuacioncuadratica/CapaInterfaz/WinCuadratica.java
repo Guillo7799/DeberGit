@@ -53,6 +53,11 @@ public class WinCuadratica extends javax.swing.JFrame {
 
         txtPantalla.setFont(new java.awt.Font("Times New Roman", 1, 12)); // NOI18N
         txtPantalla.setHorizontalAlignment(javax.swing.JTextField.RIGHT);
+        txtPantalla.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                txtPantallaActionPerformed(evt);
+            }
+        });
 
         btnCoeficientes.setFont(new java.awt.Font("Times New Roman", 1, 12)); // NOI18N
         btnCoeficientes.setText("Coef x^2");
@@ -62,6 +67,7 @@ public class WinCuadratica extends javax.swing.JFrame {
             }
         });
 
+        btnSALIR.setBackground(new java.awt.Color(204, 0, 0));
         btnSALIR.setFont(new java.awt.Font("Times New Roman", 1, 12)); // NOI18N
         btnSALIR.setText("SALIR");
         btnSALIR.addActionListener(new java.awt.event.ActionListener() {
@@ -70,6 +76,7 @@ public class WinCuadratica extends javax.swing.JFrame {
             }
         });
 
+        btnLIMPIAR.setBackground(new java.awt.Color(0, 204, 0));
         btnLIMPIAR.setFont(new java.awt.Font("Times New Roman", 1, 12)); // NOI18N
         btnLIMPIAR.setText("LIMPIAR");
         btnLIMPIAR.addActionListener(new java.awt.event.ActionListener() {
@@ -118,6 +125,7 @@ public class WinCuadratica extends javax.swing.JFrame {
             }
         });
 
+        btnIgual.setBackground(new java.awt.Color(153, 255, 255));
         btnIgual.setFont(new java.awt.Font("Times New Roman", 1, 12)); // NOI18N
         btnIgual.setText("=");
         btnIgual.addActionListener(new java.awt.event.ActionListener() {
@@ -295,6 +303,10 @@ public class WinCuadratica extends javax.swing.JFrame {
     private void btnSALIRActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnSALIRActionPerformed
         System.exit(0);
     }//GEN-LAST:event_btnSALIRActionPerformed
+
+    private void txtPantallaActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_txtPantallaActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_txtPantallaActionPerformed
 
    
 
