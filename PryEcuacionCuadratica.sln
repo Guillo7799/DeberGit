@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PryEcuacionCuadratica", "PryEcuacionCuadratica\PryEcuacionCuadratica.csproj", "{50BB506F-6B73-4265-B070-B62BF95ED67F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50BB506F-6B73-4265-B070-B62BF95ED67F}.Debug|x86.ActiveCfg = Debug|x86
+		{50BB506F-6B73-4265-B070-B62BF95ED67F}.Debug|x86.Build.0 = Debug|x86
+		{50BB506F-6B73-4265-B070-B62BF95ED67F}.Release|x86.ActiveCfg = Release|x86
+		{50BB506F-6B73-4265-B070-B62BF95ED67F}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

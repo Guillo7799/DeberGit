@@ -1,0 +1,20 @@
+C:\Users\juan_ar\Documents\Visual Studio 2010\Projects\PryEcuacionCuadratica\PryEcuacionCuadratica\obj\x86\Debug\PryEcuacionCuadratica.Properties.Resources.resources
+C:\Users\juan_ar\Documents\Visual Studio 2010\Projects\PryEcuacionCuadratica\PryEcuacionCuadratica\obj\x86\Debug\PryEcuacionCuadratica.Form1.resources
+C:\Users\juan_ar\Documents\Visual Studio 2010\Projects\PryEcuacionCuadratica\PryEcuacionCuadratica\obj\x86\Debug\PryEcuacionCuadratica.csproj.GenerateResource.Cache
+C:\Users\juan_ar\Documents\Visual Studio 2010\Projects\PryEcuacionCuadratica\PryEcuacionCuadratica\obj\x86\Debug\PryEcuacionCuadratica.csprojResolveAssemblyReference.cache
+C:\Users\juan_ar\Documents\Visual Studio 2010\Projects\PryEcuacionCuadratica\PryEcuacionCuadratica\bin\Debug\PryEcuacionCuadratica.exe
+C:\Users\juan_ar\Documents\Visual Studio 2010\Projects\PryEcuacionCuadratica\PryEcuacionCuadratica\bin\Debug\PryEcuacionCuadratica.pdb
+C:\Users\juan_ar\Documents\Visual Studio 2010\Projects\PryEcuacionCuadratica\PryEcuacionCuadratica\obj\x86\Debug\PryEcuacionCuadratica.exe
+C:\Users\juan_ar\Documents\Visual Studio 2010\Projects\PryEcuacionCuadratica\PryEcuacionCuadratica\obj\x86\Debug\PryEcuacionCuadratica.pdb
+F:\PryEcuacionCuadratica\PryEcuacionCuadratica\obj\x86\Debug\PryEcuacionCuadratica.exe
+F:\PryEcuacionCuadratica\PryEcuacionCuadratica\obj\x86\Debug\PryEcuacionCuadratica.pdb
+E:\BrendaArcentales-PryEcuacionCuadratica\PryEcuacionCuadratica\obj\x86\Debug\PryEcuacionCuadratica.exe
+E:\BrendaArcentales-PryEcuacionCuadratica\PryEcuacionCuadratica\obj\x86\Debug\PryEcuacionCuadratica.pdb
+F:\materias 2019 B\Programacion Orientada a Objetos\deberecua\BrendaArcentales-PryEcuacionCuadratica\PryEcuacionCuadratica\obj\x86\Debug\PryEcuacionCuadratica.exe
+F:\materias 2019 B\Programacion Orientada a Objetos\deberecua\BrendaArcentales-PryEcuacionCuadratica\PryEcuacionCuadratica\obj\x86\Debug\PryEcuacionCuadratica.pdb
+F:\materias 2019 B\Programacion Orientada a Objetos\deberecua\BrendaArcentales-PryEcuacionCuadratica\PryEcuacionCuadratica\bin\Debug\PryEcuacionCuadratica.exe
+F:\materias 2019 B\Programacion Orientada a Objetos\deberecua\BrendaArcentales-PryEcuacionCuadratica\PryEcuacionCuadratica\bin\Debug\PryEcuacionCuadratica.pdb
+F:\materias 2019 B\Programacion Orientada a Objetos\deberecua\BrendaArcentales-PryEcuacionCuadratica\PryEcuacionCuadratica\obj\x86\Debug\PryEcuacionCuadratica.csprojResolveAssemblyReference.cache
+F:\materias 2019 B\Programacion Orientada a Objetos\deberecua\BrendaArcentales-PryEcuacionCuadratica\PryEcuacionCuadratica\obj\x86\Debug\PryEcuacionCuadratica.Properties.Resources.resources
+F:\materias 2019 B\Programacion Orientada a Objetos\deberecua\BrendaArcentales-PryEcuacionCuadratica\PryEcuacionCuadratica\obj\x86\Debug\PryEcuacionCuadratica.Form1.resources
+F:\materias 2019 B\Programacion Orientada a Objetos\deberecua\BrendaArcentales-PryEcuacionCuadratica\PryEcuacionCuadratica\obj\x86\Debug\PryEcuacionCuadratica.csproj.GenerateResource.Cache
